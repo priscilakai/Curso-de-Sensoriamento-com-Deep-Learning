@@ -8,7 +8,8 @@
 <a href="https://eos.com/landviewer/" target="_blank"><img src="https://img.shields.io/badge/-EOS LandViewer-%23333?style=for-the-badge&logo=lattes&logoColor=white" target="_blank"></a> 
 
 ### Materiais para programação em Python:
-<p>Think Python: <a href="https://greenteapress.com/wp/think-python/"> Link
-</p>
+<p>Think Python: <a href="https://greenteapress.com/wp/think-python/"> Link</p>
 
+<p> The Python Tutorial: <a href="https://docs.python.org/3/tutorial/"> Link</p>
+  
 ### Materiais úteis:
