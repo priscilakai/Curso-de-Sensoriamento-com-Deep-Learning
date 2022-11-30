@@ -19,6 +19,16 @@ MANICKAVASAGAN, Annamalai; JAYASURIYA, Hemantha (Ed.). Imaging with electromagne
 
 LILLESAND, Thomas; KIEFER, Ralph W.; CHIPMAN, Jonathan. Remote sensing and image interpretation. John Wiley & Sons, 2015.
 
- '''bash
-  
-  '''
+### Bibliotecas / Pacotes utilizados:
+```ruby
+import geopandas as gpd
+import matplotlib.pyplot as plt
+import numpy as np
+import rasterio
+from os import listdir
+from os.path import isfile, join
+from rasterio.enums import Resampling
+from rasterio.mask import mask
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import MinMaxScaler 
+```
