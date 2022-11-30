@@ -18,3 +18,7 @@ CAMPBELL, James B.; WYNNE, Randolph H. Introduction to remote sensing. Guilford 
 MANICKAVASAGAN, Annamalai; JAYASURIYA, Hemantha (Ed.). Imaging with electromagnetic spectrum: applications in food and agriculture. Springer, 2014.
 
 LILLESAND, Thomas; KIEFER, Ralph W.; CHIPMAN, Jonathan. Remote sensing and image interpretation. John Wiley & Sons, 2015.
+
+ '''bash
+  
+  '''
