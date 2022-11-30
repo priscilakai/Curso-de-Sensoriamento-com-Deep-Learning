@@ -12,4 +12,9 @@
 
 <p> The Python Tutorial: <a href="https://docs.python.org/3/tutorial/"> Link</p>
   
-### Materiais úteis:
+### Livros:
+CAMPBELL, James B.; WYNNE, Randolph H. Introduction to remote sensing. Guilford Press, 2011.
+
+MANICKAVASAGAN, Annamalai; JAYASURIYA, Hemantha (Ed.). Imaging with electromagnetic spectrum: applications in food and agriculture. Springer, 2014.
+
+LILLESAND, Thomas; KIEFER, Ralph W.; CHIPMAN, Jonathan. Remote sensing and image interpretation. John Wiley & Sons, 2015.
