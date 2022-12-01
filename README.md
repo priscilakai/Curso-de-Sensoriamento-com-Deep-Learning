@@ -20,7 +20,7 @@ MANICKAVASAGAN, Annamalai; JAYASURIYA, Hemantha (Ed.). Imaging with electromagne
 LILLESAND, Thomas; KIEFER, Ralph W.; CHIPMAN, Jonathan. Remote sensing and image interpretation. John Wiley & Sons, 2015.
 
 ### Bibliotecas / Pacotes utilizados:
-```ruby
+```js
 import geopandas as gpd
 import matplotlib.pyplot as plt
 import numpy as np
