@@ -36,7 +36,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler 
 ```
 
-### ### Bibliotecas / Pacotes utilizados (Aula 5):
+### Bibliotecas / Pacotes utilizados (Aula 5):
 ```js
 import numpy as np
 import matplotlib.pyplot as plt 
