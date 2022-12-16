@@ -12,13 +12,13 @@ from rasterio.mask import mask
 
 # Lendo KML files com GeoPandas
 gpd.io.file.fiona.drvsupport.supported_drivers['KML'] = 'rw'
-my_map = gpd.read_file('F:/Doutorado/Curso.kml', driver='KML')
+my_map = gpd.read_file('caminho_do_arquivo.kml', driver='KML')
 
 # Convertendo EPSG para o mesmo da imagem do Sentinel-2
 my_map = my_map.to_crs(epsg=32722)
     
 # Pasta contendo images
-path_input = 'F:/Doutorado/Curso/'
+path_input = 'caminho_contendo_as_imagens'
 
 # Obtendo nomes de arquivos de imagem
 img_nomes = [f for f in listdir(path_input) if isfile(join(path_input, f))]
